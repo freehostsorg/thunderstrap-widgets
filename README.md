@@ -14,7 +14,7 @@ WordPress plugin for creating Bootstrap 4 widgets for Understrap based themes.
 = 0.0.1 =
 * Initial release.
 
-### Credits
+### Tags, Credits & License
 
 - Contributors: radixmo
 - Donate link: https://radixmo.com/
