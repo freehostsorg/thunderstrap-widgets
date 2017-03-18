@@ -9,6 +9,17 @@ WordPress plugin for creating Bootstrap 4 widgets for [Thunderstrap](https://git
 3. Upload the `thunderstrap-widgets`directory to `wp-content/plugins/`.
 2. Activate the plugin.
 
+
+## Example Usage
+
+Create Jumbotron widgets to use in the Thunderstrap/Unerstrap `Hero slider`.
+
+1. Loginto your WordPress backend
+2. Go to Appearance > Widgets
+3. Drag Thudnderstrap Jumbotron to Hero Slider
+4. Complete and save the form with your preferences.
+5. Preview the widget in your WordPress front end.
+
 ## Changelog
 
 = 0.0.1 =
