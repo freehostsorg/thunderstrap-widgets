@@ -1,6 +1,6 @@
 #### Thunderstrap Widgets
 
-WordPress that for creating Bootstrap 4 widgets for Understrap based themes.
+WordPress widget for creating Bootstrap 4 widgets for Understrap based themes.
 
 ### Installation
 
