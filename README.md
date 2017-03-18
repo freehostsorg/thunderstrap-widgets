@@ -1,13 +1,6 @@
 #### Thunderstrap Widgets
 
-This plugin creates Bootstrap 4 widgets for Understrap based themes.
-
-Contributors: radixmo
-Donate link: https://radixmo.com/
-Tags: bootstrap, widgets, slider
-Tested up to: 4.7
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+WordPress that for creating Bootstrap 4 widgets for Understrap based themes.
 
 ### Installation
 
@@ -20,3 +13,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 = 0.0.1 =
 * Initial release.
+
+### Credits
+
+- Contributors: radixmo
+- Donate link: https://radixmo.com/
+- Tags: bootstrap, widgets, slider
+- Tested up to: 4.7
+- License: GPLv2 or later
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
