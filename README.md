@@ -1,6 +1,6 @@
 # Thunderstrap Widgets
 
-WordPress plugin for creating Bootstrap 4 widgets for [Thunderstrap](https://github.com/radixmo/thunderstrap) and other [Understrap](https://github.com/holger1411/understrap) based themes.
+A WordPress plugin for creating Bootstrap 4 widgets for [Thunderstrap](https://github.com/radixmo/thunderstrap) and other [Understrap](https://github.com/holger1411/understrap) based themes.
 
 ## Installation
 
@@ -12,11 +12,11 @@ WordPress plugin for creating Bootstrap 4 widgets for [Thunderstrap](https://git
 
 ## Example Usage
 
-Create aJumbotron widget to use in the Thunderstrap/Understrap `Hero slider`.
+How to create a Jumbotron widget for use in the Thunderstrap/Understrap `Hero slider`.
 
-1. Loginto your WordPress backend.
+1. Login to your WordPress backend.
 2. Go to Appearance > Widgets.
-3. Drag Thudnderstrap Jumbotron to `Hero Slider`.
+3. Drag Thunderstrap Jumbotron to `Hero Slider`.
 4. Complete and save the form with your preferences.
 5. Preview the widget in your WordPress front end.
 
